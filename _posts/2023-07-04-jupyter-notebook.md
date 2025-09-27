@@ -7,6 +7,7 @@ tags: narrative
 categories: research
 giscus_comments: true
 related_posts: false
+featured: true
 ---
 
 Our article “Unraveling the Shape of Social Media Narratives: Analyzing the Effects of Online Interaction and Narrative Structure on Attention to Digital Asset Transactions” has been accepted for publication in Journal of Broadcasting & Electronic Media.
