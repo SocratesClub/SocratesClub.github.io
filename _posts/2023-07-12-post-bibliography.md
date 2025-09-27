@@ -7,6 +7,7 @@ tags: narrative
 categories: research
 giscus_comments: true
 related_posts: false
+featured: true
 ---
 
 
