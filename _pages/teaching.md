@@ -7,6 +7,9 @@ nav: true
 nav_order: 5
 ---
 
+<img width="988" height="493" alt="image" src="https://github.com/user-attachments/assets/b084ac19-c06d-43e5-9173-a3d46e377faf" />
+
+
 ## Courses
 
 I am teaching the following courses:
