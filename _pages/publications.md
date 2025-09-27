@@ -7,6 +7,9 @@ nav: true
 nav_order: 1
 ---
 
+<img width="996" height="494" alt="image" src="https://github.com/user-attachments/assets/6046c28b-a0a2-48e4-82e5-bb6dac9e4c54" />
+
+
 1. Yan Xue-Fei, Lu Linyan, Chen Zhicong *, Wang Cheng-Jun * (2025) Who Weaved My Behavior Cocoon? The Impact of ICT Use on Daily Behaviors in an Accelerated Society. Communications: The European Journal of Communication Research. Data & Code: https://osf.io/kca32/
 2. Zhang, Yaotian; Sun, Yixiao ‡; Wang, Cheng-Jun * (2025) Unraveling the Shape of Social Media Narratives: Analyzing the Effects of Online Interaction and Narrative Structure on Attention to Digital Asset Transactions. Journal of Broadcasting & Electronic Media. 69(3), 200–218. doi: 10.1080/08838151.2025.2484347. Data & Code: https://osf.io/zhwxy/
 3. Zhang, Yaotian; Sun, Yixiao; Chen, Zhicong *; Wang, Cheng-Jun * (2025) Let us not wallow in the valley of despair: The role of emotion, panic, and sympathy discourses in promoting productive actions. International Journal of Business Communication. doi: 10.1177/23294884251333665. Data & Code: doi: 10.0.68.197/OSF.IO/ZHWXY
