@@ -1,111 +1,18 @@
 ---
 layout: post
-title: a post with custom blockquotes
-date: 2023-05-12 15:53:00-0400
-description: an example of a blog post with custom blockquotes
-tags: formatting blockquotes
-categories: sample-posts
+title: The dark side of the Internet
+date: 2025-05-12 15:53:00-0400
+description: Fueling misinformation in the COVID-19 pandemic and the 2020 US Presidential Election
+tags: narrative
+categories: research
 giscus_comments: true
 related_posts: true
 ---
-This post shows how to add custom styles for blockquotes. Based on [jekyll-gitbook](https://github.com/sighingnow/jekyll-gitbook) implementation.
 
-We decided to support the same custom blockquotes as in [jekyll-gitbook](https://sighingnow.github.io/jekyll-gitbook/jekyll/2022-06-30-tips_warnings_dangers.html), which are also found in a lot of other sites' styles. The styles definitions can be found on the [_base.scss](https://github.com/alshedivat/al-folio/blob/master/_sass/_base.scss) file, more specifically:
+Our article “The dark side of the Internet: Fueling misinformation in the COVID-19 pandemic and the 2020 US Presidential Election” is now published and is available at https://doi.org/10.1177/20570473251323752
 
-```scss
-/* Tips, warnings, and dangers */
-.post .post-content blockquote {
-    &.block-tip {
-    border-color: var(--global-tip-block);
-    background-color: var(--global-tip-block-bg);
+> Chen, Zhicong; Yu, Wenting; Sun, Yixiao; Wang, Cheng-Jun *; Liu, Xiao Fan * (2025) The Dark Side of the Internet: Fueling Misinformation in the COVID-19 Pandemic and the 2020 U.S. Presidential Election. Communication and the Public. doi:10.1177/20570473251323752. Data & Code: https://doi.org/10.17605/OSF.IO/9M78F
 
-    p {
-      color: var(--global-tip-block-text);
-    }
 
-    h1, h2, h3, h4, h5, h6 {
-      color: var(--global-tip-block-title);
-    }
-  }
-
-  &.block-warning {
-    border-color: var(--global-warning-block);
-    background-color: var(--global-warning-block-bg);
-
-    p {
-      color: var(--global-warning-block-text);
-    }
-
-    h1, h2, h3, h4, h5, h6 {
-      color: var(--global-warning-block-title);
-    }
-  }
-
-  &.block-danger {
-    border-color: var(--global-danger-block);
-    background-color: var(--global-danger-block-bg);
-
-    p {
-      color: var(--global-danger-block-text);
-    }
-
-    h1, h2, h3, h4, h5, h6 {
-      color: var(--global-danger-block-title);
-    }
-  }
-}
-```
-
-A regular blockquote can be used as following:
-
-```markdown
-> This is a regular blockquote
-> and it can be used as usual
-```
-
-> This is a regular blockquote
-> and it can be used as usual
-
-These custom styles can be used by adding the specific class to the blockquote, as follows:
-
-```markdown
-> ##### TIP
->
-> A tip can be used when you want to give advice
-> related to a certain content.
-{: .block-tip }
-```
-
-> ##### TIP
->
-> A tip can be used when you want to give advice
-> related to a certain content.
-{: .block-tip }
-
-```markdown
-> ##### WARNING
->
-> This is a warning, and thus should
-> be used when you want to warn the user
-{: .block-warning }
-```
-
-> ##### WARNING
->
-> This is a warning, and thus should
-> be used when you want to warn the user
-{: .block-warning }
-
-```markdown
-> ##### DANGER
->
-> This is a danger zone, and thus should
-> be used carefully
-{: .block-danger }
-```
-
-> ##### DANGER
->
-> This is a danger zone, and thus should
-> be used carefully
-{: .block-danger }
+## Abstract
+Characterized by robust technical anonymity and a conspicuous absence of stringent regulations, the dark side of the Internet represent the less illuminated aspects of the digital world. This study analyzed a national survey conducted in the United States in November 2020 (N = 702) to understand the relationship between using the dark side of the Internet and misinformation beliefs in both public health and political context. With the help of propensity score matching and instrumental variables, the results reveal that the users of the dark side of the Internet are more inclined to believe the misinformation about the COVID-19 pandemic and the 2020 US Presidential Election. Overall, the findings significantly contribute to the existing body of knowledge concerning the social impacts of technologies that grant a high level of user anonymity while operating with minimal regulatory oversight.
